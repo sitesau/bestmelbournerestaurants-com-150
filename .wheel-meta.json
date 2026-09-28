@@ -1,0 +1,19 @@
+{
+  "wheel_id": 313,
+  "structure": "umbrella",
+  "slug": "bestmelbournerestaurants-com-150",
+  "project": "restaurants-melbourne-f843fb606ae8a3137b4d4f94277d450910cbbad7",
+  "parent_t1_ref": "bestmelbournerestaurants.com-006",
+  "node_role": "buffer",
+  "money_target": "bestmelbournerestaurants.com.au",
+  "primary_kw": "restaurants melbourne",
+  "intended_url": "https://sites-e470-2.web.app/restaurants-melbourne-f843fb606ae8a3137b4d4f94277d450910cbbad7/",
+  "writeback_nonce": "fc01375bb9046d64",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/restaurants-melbourne/",
+      "anchor": "restaurants melbourne",
+      "rel": "follow"
+    }
+  ]
+}
